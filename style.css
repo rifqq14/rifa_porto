@@ -1,0 +1,13 @@
+<head>
+<head>
+   <title>Internal CSS</title>
+   <style type="text/css">
+      body {background-color:yellow;}
+      p {color:blue;}
+   </style>
+</head>
+<body>
+   <h1>Ini adalah judul</h1>
+   <p>Ini contoh paragraf</p>
+</body>
+</html>
